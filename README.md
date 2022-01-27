@@ -1,10 +1,10 @@
-👋 Hello, I'm Edilberto.
+👋  Hello, I'm Edilberto.
 
-🌱 I am currently involved in Fronted development on the way to Full Stack
+🌱  I am currently involved in Fronted development on the way to Full Stack
 
-💞️ Looking to collaborate on software development projects
+💞️  Looking to collaborate on software development projects
 
-📫 contact me on [Twitter](https://twitter.com/edicoweb)
+📫  Contact me on [Twitter](https://twitter.com/edicoweb)
 
 <!---
 edicoweb/edicoweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
